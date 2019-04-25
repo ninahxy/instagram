@@ -1,0 +1,36 @@
+.logo{
+    margin-top: 1em;
+}
+
+.ButtonSize{
+    margin-top: 1em;
+}
+
+.Container{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.CardSize{
+    background-color: rgba(236, 235, 232, 0.212);
+    padding-top: 2em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+
+}
+
+.fontSize{
+    padding-left: 13px;
+    padding-top: 0;
+    font-weight: 600;
+}
+
+.Center li{
+    margin-top: 1em;
+}
+
+.BottomText{
+    margin-top: 0.8em;
+    margin-right: 1.7em;
+}
+
